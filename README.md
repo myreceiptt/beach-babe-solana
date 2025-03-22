@@ -85,9 +85,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 > Regards
 > 
-> [Prof. NOTA](https://deeplinks.straight-line.org/)
+> [Prof. NOTA](https://deeplink.endhonesa.com/)
 > 
-> [init.straight-line.org](https://init.straight-line.org/)
+> [init.endhonesa.com](https://init.endhonesa.com/)
 > 
 
 <!--
